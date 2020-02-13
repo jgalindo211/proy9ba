@@ -1,0 +1,348 @@
+div.login {
+	background-color: #f0f5ff;
+	border: 1px solid #000000;
+	padding: 1em;
+	width: 300px;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000066;
+	background-position: center;
+	text-align: center;
+}
+
+div.tabArea {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+a.tab.inactiveTab, a.tab.inactiveTab:hover, a.tab.inactiveTab:visited{
+  background-color: #F0F0F0;
+  border: 1px solid #000000;
+  border-bottom-width: 0px;
+  padding: 2px 1em 2px 1em;
+  text-decoration: none;
+}
+
+a.tab {
+  background-color: #EDECEC;
+  border: 1px solid #000000;
+  border-bottom-width: 0px;
+  padding: 2px 1em 2px 1em;
+  text-decoration: none;
+}
+
+a.tab, a.tab:visited {
+  color: #808080;
+}
+
+a.tab:hover {
+  background-color: #FFFFFF;
+  color: #606060;
+}
+a.tab.activeTab, a.tab.activeTab:hover, a.tab.activeTab:visited {
+  background-color: #C8D5DF;
+  color: #000000;
+}
+/*
+a.tab:hover {
+  background-color: #d0d0d0;
+  color: #606060;
+}*/
+
+/*
+a.tab.activeTab, a.tab.activeTab:hover, a.tab.activeTab:visited {
+  background-color: #c0c0c0;
+  color: #000000;
+}*/
+
+div.tabMain {
+	background-color: #000000;
+	border: 1px solid #000000;
+	padding: 1em;
+	width: 95%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	height: 300px;
+}
+
+div.minitabMain {
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	padding: 1em;
+	width: 95%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	height: 175px;
+}
+
+div.controls{
+	border: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+div.minicontrols{
+	position: absolute;
+	width: 311px;
+	height: 41px;
+	left: 28px;
+	top: 150px;
+	border: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+
+}
+
+
+div.half {
+	background-color: #FFFFFF;
+	padding: 1em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	border-top: 1px solid #000000;
+	border-right: 1px none #000000;
+	border-bottom: 1px none #000000;
+	border-left: 1px none #000000;
+
+}
+
+table.grid {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	border: thin solid #003399;
+
+}
+
+th.grid{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: #003399;
+	text-align: left;
+	font-style: italic;
+}
+
+tr.selected{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #003399;
+	color: #FFFFFF;
+
+}
+
+iframe.registers{
+	border: 1px solid #000000;
+	overflow: auto;
+
+}
+
+tr.odd{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #174e90;
+	text-decoration: none;
+	background-color: #D6E2F2;
+}
+
+tr.even{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #174e90;
+	text-decoration: none;
+	background-color: #E7EEF8;
+}
+
+tr.oddpetit{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-weight: normal;
+	color: #174e90;
+	text-decoration: none;
+	background-color: #D6E2F2;
+}
+
+tr.evenpetit{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-weight: normal;
+	color: #174e90;
+	text-decoration: none;
+	background-color: #E7EEF8;
+}
+
+.titulopetit {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: Bold;
+	color: #174e90;
+	text-decoration: none;
+}
+
+ul.messages{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #e4e5e7;
+	color: #FF0000;
+
+}
+.buttonUp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #000066;
+	background-image: url(../images/button_up.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+	vertical-align: text-bottom;
+	height: 40px;
+	width: 150px;
+	padding-top: 10px;
+
+}
+.buttonDown {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-image: url(../images/button_down.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: center;
+	vertical-align: middle;
+	height: 40px;
+	width: 150px;
+	padding-top: 10px;
+	padding-left: 2px;
+
+}
+
+div.aBorder {
+	background-color: #f0f5ff;
+	border: 1px solid #000000;
+	padding: 1em;
+	width: 300px;
+	align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000066;
+	background-position: center;
+	text-align: center;
+}
+
+tr.noReg{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FF0000;
+}
+
+
+#tablist{
+padding: 3px 0;
+margin-left: 0;
+margin-bottom: 0;
+margin-top: 0.1em;
+font: bold 12px Verdana;
+}
+
+#tablist li{
+list-style: none;
+display: inline;
+margin: 0;
+}
+
+#tablist li a{
+padding: 3px 0.5em;
+margin-left: 3px;
+border: 1px solid #778;
+border-bottom: none;
+background: white;
+}
+
+#tablist li a:link, #tablist li a:visited{
+color: navy;
+}
+
+#tablist li a.current{
+background: #E2E1E2;
+}
+
+#tabcontentcontainer{
+width: 400px;
+/* Insert Optional Height definition here to give all the content a unified height */
+padding: 5px;
+border: 1px solid black;
+}
+
+.tabcontent{
+display:none;
+}
+
+
+.menuStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #003333;
+	border: thin solid #F3F3F3;
+}
+a {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #003333;
+}
+.principalStyle {
+	background-color: #FFFFFF;
+}
+.formStyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	color: #333333;
+	border: thin solid #CCCCCC;
+
+}
+.formTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	background-color: #E2E2E2;
+	border: thin solid;
+}
+.theTitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000033;
+	background-color: #F0F0F0;
+}

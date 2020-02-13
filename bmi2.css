@@ -1,0 +1,250 @@
+ .tabla0 {
+    border-spacing: 0px;
+    border-collapse:collapse;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ .tabla1 {
+    width: 769px;
+    border-spacing: 0px;
+    border-collapse:collapse;
+    
+    /* Centrarla */
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ .tabla2 {
+    width: 769px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0px; /* cellspacing*/
+ }
+ 
+ .tabla3 {
+    width: 718px;
+    border-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #91A8C4;
+ }
+ 
+ .tabla4 {
+    width: 733px;
+    border-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C8D5DF;
+ }
+ 
+ .t1c1 {
+    width: 466px;
+    height: 30px;
+    text-align: left;
+    vertical-align: top;
+ }
+ 
+ .shim {
+   width: 1px;
+   height: 1px;
+ }
+ 
+ .diagonal {
+   width: 23px;
+   height: 23px;
+ }
+ 
+ .imgBgNavRapTop {
+   background-image: url(../images/nav_rap_top.gif);
+   background-repeat: repeat-x;
+ }
+ 
+ .imgBgContcPix {
+   background-image: url(../images/contc_pix.gif);
+   background-repeat: repeat-x;
+ }
+ 
+ .imgBgBordeIzqPix {
+   background-image: url(../images/borde_izq_pix.gif);
+ }
+ 
+ .imgBgBordeDerPix {
+   background-image: url(../images/borde_der_pix.gif);
+ }
+ 
+ .imgBgBtm02Fdo {
+   background-image: url(../images/btm02_fdo.gif);
+ }
+ 
+ .alignLeftTop {
+   text-align: left;
+   vertical-align: top;
+ }
+ 
+ .alignLeftMiddle {
+   text-align: left;
+   vertical-align: middle;
+ }
+ 
+ .alignRightTop {
+   text-align: right;
+   vertical-align: top;
+ }
+ 
+ .alignRightMiddle {
+   text-align: right;
+   vertical-align: middle;
+ }
+    
+ .alignCenterTop {
+   text-align: center;
+   vertical-align: top;
+ }
+ 
+ .alignCenterMiddle {
+   text-align: center;
+   vertical-align: middle;
+ }
+ 
+ .fondoCeleste1 {
+   background-color: #C8D5DF;
+ }
+ 
+ .fondoCeleste2 {
+   background-color: #DCDCDC;
+ }
+ 
+ .fondoCeleste3 {
+   background-color: #EAF0F8;
+ }
+ 
+ .fondoCeleste4 {
+   background-color: #EBF0F4;
+ }
+ 
+ .fondoEdecec {
+   background-color: #EDECEC;
+ }
+ 
+ .franjaLineaLateral {
+   width: 10px;
+   height: 32px;
+ }
+ 
+ .franjaEsqIzq {
+   width: 10px;
+   height: 6px;
+ }
+ 
+ .lineaPunteada {
+   width: 293px;
+   height: 1px;
+ }
+ 
+ .tituloPantalla {
+  font-weight: bolder;
+ }
+ 
+ .tablaForm {
+  border-spacing: 0px;
+  border-collapse:collapse;
+ }
+ 
+ .tablaDatos {
+    border: 1px;
+    padding: 0px;
+    width: 100%;
+  }
+  
+ .encabezadoDatos {
+    background-color: #E7EEF8;
+    font-weight: bolder;
+  }
+  
+  
+  .filaDatosPar {
+    background-color: #E7EEF8;
+    text-align: left;
+  }
+  
+  .filaDatosImpar {
+    background-color: #D6E2F2;
+    text-align: left;
+  }
+  
+  .mano {
+    cursor: pointer;
+  }
+  
+  .centrado {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .subrayado {
+    text-decoration: underline;
+  }
+  
+  .txtaFijo {
+    resize: none;
+  }
+  
+  .no-close .ui-dialog-titlebar-close {
+    display: none;
+  }
+  
+  .lblValidacion {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .bordeColapsado {
+    border-collapse:collapse;
+  }
+  
+  .encabezadoTabla {
+    background-color: #E7EEF8;
+    font-weight: bolder;
+  }
+  
+  .textoCentrado {
+    text-align: center;
+  }
+  
+  .tablaDatosEmpleado {
+    width: 525px;
+    border: 1px;
+    padding: 0px;
+    border-collapse: collapse;
+  }
+  
+  .filaPar {
+    background-color: #E7EEF8;
+    text-align: left;
+  }
+  
+  .filaImpar {
+    background-color: #D6E2F2;
+    text-align: left;
+  }
+  
+  .error { 
+    float: none; 
+    color: red; 
+    padding-left: .5em; 
+    vertical-align: top; 
+    font-weight: bold;
+  }
+  
+  .invisible {
+    display: none;
+  }
+  
+  .noclose .ui-dialog-titlebar-close{
+    display:none;
+  }
+  
+  .negrita {
+    font-weight: bold;
+  }

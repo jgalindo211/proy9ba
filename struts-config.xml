@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC 
+"-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" 
+"http://jakarta.apache.org/struts/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+	<form-beans>
+		<form-bean
+			name="ConsultaClienteForm"
+			type="bandesal.gob.sv.consulta.cliente.form.ConsultaClienteForm"/>
+                <form-bean
+			name="ConsultaNombresForm"
+			type="bandesal.gob.sv.consulta.cliente.form.ConsultaNombresForm"/>
+        </form-beans>
+
+	<action-mappings>
+                <action input="/consultaCliente.jsp"
+                        name="ConsultaClienteForm"
+			path="/consultaclienteAction"
+                        scope="session"
+			type="bandesal.gob.sv.consulta.cliente.action.ConsultaClienteAction">
+			<forward name="successConsulta" path="/consultaCliente.jsp"/>
+                </action>
+                <action input="/consultaCliente.jsp"
+                        name="ConsultaNombresForm"
+			path="/consultaNombreAction"
+                        scope="session"
+			type="bandesal.gob.sv.consulta.cliente.action.ConsultaNombresAction">
+			<forward name="successNombre" path="/consultaCliente.jsp"/>
+                </action>
+	</action-mappings>
+
+    <message-resources parameter="ApplicationResource"/>
+    
+</struts-config>

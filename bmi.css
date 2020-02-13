@@ -1,0 +1,515 @@
+.divtipo {
+
+	display : none
+
+}
+
+.campo01 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+.verd10gris {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+.verd9gris {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 6px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+.verd9gris {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+
+
+.verd9grislinks {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: underline;
+
+}
+
+
+
+.verd10azul {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+
+
+
+.verd10azullinks {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: underline;
+
+}
+
+
+
+.verd10azulBold {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: Bold;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+
+
+
+.verd11azul{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+
+
+
+.verd11gris {
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+.select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #666666;
+}
+
+
+.verd15azul {
+
+
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 15px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+
+.inputText{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+
+
+.verd9black {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.verd9red {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #EF5613;
+
+	text-decoration: none;
+
+}
+
+.verd12azul {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	font-weight: bold;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+
+.noPrint {
+
+display:none;
+
+}
+
+.print {
+
+display:table;
+
+}
+
+
+tr.odd { background-color: #D6E2F2;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+}
+
+tr.even { background-color: #E7EEF8;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+}
+
+tr.head { background-color: #D6E2F2;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 9px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+table.titulo{
+	border-top: 2px solid #FFCC66;
+	border-bottom:1px dotted #FFCC66;
+	padding-top:10px;
+	padding-right:3px;
+	padding-left:20px;
+	padding-bottom:12px;
+
+}
+a {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: underline;
+
+}
+.H1 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 13px;
+
+	font-weight: BOLD;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+.H2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	font-weight: BOLD;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+.H3 {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: normal;
+
+	color: #174e90;
+
+	text-decoration: none;
+
+}
+.H4 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight: bold;
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+/* Estilos usados para el banner agregado el 07 de febrero de 2013 */
+.tablaBanner {
+  width: 969px;
+  border: none;
+  border-collapse: collapse;
+  /* Centrar tabla*/
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.celdaBannerAux {
+  width: 10px;
+  border: none;
+  background-color: #C8D5DF;
+}
+
+.celdaBannerAux2 {
+  width: 6px;
+  border: none;
+  background-color: #C8D5DF;
+}
+
+.celdaBanner {
+  background-color: #C8D5DF;
+  border: none;
+}
+
+.imgBordeIzq {
+  width: 10px;
+  height: 154px;
+}
+
+.filaBanner {
+  border: none;
+}
+
+.ceroPadding {
+  padding-bottom: 0.0pt;
+  padding-left: 0.0pt;
+  padding-right: 0.0pt;
+  padding-top: 0.0pt;
+}
+
+.imagenShim {
+  width: 1px;
+}
+
+.submitCierre {
+width: 15px;
+height: 21px;
+padding: 20px 0 0;
+margin: 0;
+border: 0;
+background: url('../images/delimg.jpg') no-repeat center top;
+overflow: hidden;
+cursor: pointer; /* hand-shaped cursor */
+
+}
+
+.submitAprobar {
+width: 18px;
+height: 21px;
+padding: 20px 0 0;
+margin: 0;
+border: 0;
+background: url('../images/icon-check.png') no-repeat center top;
+overflow: hidden;
+cursor: pointer; /* hand-shaped cursor */
+
+}
+
+.submitDenegar {
+width: 20px;
+height: 22px;
+padding: 20px 0 0;
+margin: 0;
+border: 0;
+background: url('../images/icon-rechazar.png') no-repeat center top;
+overflow: hidden;
+cursor: pointer; /* hand-shaped cursor */
+
+}
+
+.submitAnexo {
+width: 14px;
+height: 21px;
+padding: 20px 0 0;
+margin: 0;
+border: 0;
+background: url('../images/icon_adjunto.gif') no-repeat center left;
+overflow: hidden;
+cursor: pointer; /* hand-shaped cursor */
+
+}
+
+.submitEditar {
+width: 18px;
+height: 21px;
+padding: 20px 0 0;
+margin: 0;
+border: 0;
+background: url('../images/icon-edit.gif') no-repeat center top;
+overflow: hidden;
+cursor: pointer; /* hand-shaped cursor */
+
+}
+
+.submitReenviar {
+width: 18px;
+height: 21px;
+padding: 20px 0 0;
+margin: 0;
+border: 0;
+background: url('../images/icon-check.png') no-repeat center top;
+overflow: hidden;
+cursor: pointer; /* hand-shaped cursor */
+
+}
+
+#rotating-item-wrapper > img {
+  border: none;
+}
+
